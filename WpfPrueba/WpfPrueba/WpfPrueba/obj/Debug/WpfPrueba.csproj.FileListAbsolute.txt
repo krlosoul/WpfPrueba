@@ -1,0 +1,44 @@
+c:\users\administrator.000\documents\visual studio 2012\Projects\WpfPrueba\WpfPrueba\bin\Debug\WpfPrueba.exe.config
+c:\users\administrator.000\documents\visual studio 2012\Projects\WpfPrueba\WpfPrueba\bin\Debug\WpfPrueba.exe
+c:\users\administrator.000\documents\visual studio 2012\Projects\WpfPrueba\WpfPrueba\bin\Debug\WpfPrueba.pdb
+c:\users\administrator.000\documents\visual studio 2012\Projects\WpfPrueba\WpfPrueba\obj\Debug\WpfPrueba.csprojResolveAssemblyReference.cache
+c:\users\administrator.000\documents\visual studio 2012\Projects\WpfPrueba\WpfPrueba\obj\Debug\MainWindow.baml
+c:\users\administrator.000\documents\visual studio 2012\Projects\WpfPrueba\WpfPrueba\obj\Debug\MainWindow.g.cs
+c:\users\administrator.000\documents\visual studio 2012\Projects\WpfPrueba\WpfPrueba\obj\Debug\App.g.cs
+c:\users\administrator.000\documents\visual studio 2012\Projects\WpfPrueba\WpfPrueba\obj\Debug\WpfPrueba_MarkupCompile.cache
+c:\users\administrator.000\documents\visual studio 2012\Projects\WpfPrueba\WpfPrueba\obj\Debug\WpfPrueba.g.resources
+c:\users\administrator.000\documents\visual studio 2012\Projects\WpfPrueba\WpfPrueba\obj\Debug\WpfPrueba.Properties.Resources.resources
+c:\users\administrator.000\documents\visual studio 2012\Projects\WpfPrueba\WpfPrueba\obj\Debug\WpfPrueba.csproj.GenerateResource.Cache
+c:\users\administrator.000\documents\visual studio 2012\Projects\WpfPrueba\WpfPrueba\obj\Debug\WpfPrueba.exe
+c:\users\administrator.000\documents\visual studio 2012\Projects\WpfPrueba\WpfPrueba\obj\Debug\WpfPrueba.pdb
+F:\Download\WpfPrueba\WpfPrueba\WpfPrueba\bin\Debug\WpfPrueba.exe.config
+F:\Download\WpfPrueba\WpfPrueba\WpfPrueba\obj\Debug\WpfPrueba.exe
+F:\Download\WpfPrueba\WpfPrueba\WpfPrueba\obj\Debug\WpfPrueba.pdb
+F:\Download\WpfPrueba\WpfPrueba\WpfPrueba\bin\Debug\WpfPrueba.exe
+F:\Download\WpfPrueba\WpfPrueba\WpfPrueba\bin\Debug\WpfPrueba.pdb
+F:\Download\WpfPrueba\WpfPrueba\WpfPrueba\obj\Debug\WpfPrueba.csprojResolveAssemblyReference.cache
+F:\Download\WpfPrueba\WpfPrueba\WpfPrueba\obj\Debug\MainWindow.baml
+F:\Download\WpfPrueba\WpfPrueba\WpfPrueba\obj\Debug\MainWindow.g.cs
+F:\Download\WpfPrueba\WpfPrueba\WpfPrueba\obj\Debug\App.g.cs
+F:\Download\WpfPrueba\WpfPrueba\WpfPrueba\obj\Debug\WpfPrueba_MarkupCompile.cache
+F:\Download\WpfPrueba\WpfPrueba\WpfPrueba\obj\Debug\WpfPrueba.g.resources
+F:\Download\WpfPrueba\WpfPrueba\WpfPrueba\obj\Debug\WpfPrueba.Properties.Resources.resources
+F:\Download\WpfPrueba\WpfPrueba\WpfPrueba\obj\Debug\WpfPrueba.csproj.GenerateResource.Cache
+C:\Users\krlosoul\Downloads\WpfPrueba\WpfPrueba\WpfPrueba\WpfPrueba\bin\Debug\WpfPrueba.exe.config
+C:\Users\krlosoul\Downloads\WpfPrueba\WpfPrueba\WpfPrueba\WpfPrueba\bin\Debug\WpfPrueba.exe
+C:\Users\krlosoul\Downloads\WpfPrueba\WpfPrueba\WpfPrueba\WpfPrueba\bin\Debug\WpfPrueba.pdb
+C:\Users\krlosoul\Downloads\WpfPrueba\WpfPrueba\WpfPrueba\WpfPrueba\obj\Debug\WpfPrueba.csprojAssemblyReference.cache
+C:\Users\krlosoul\Downloads\WpfPrueba\WpfPrueba\WpfPrueba\WpfPrueba\obj\Debug\MainWindow.baml
+C:\Users\krlosoul\Downloads\WpfPrueba\WpfPrueba\WpfPrueba\WpfPrueba\obj\Debug\MainWindow.g.cs
+C:\Users\krlosoul\Downloads\WpfPrueba\WpfPrueba\WpfPrueba\WpfPrueba\obj\Debug\App.g.cs
+C:\Users\krlosoul\Downloads\WpfPrueba\WpfPrueba\WpfPrueba\WpfPrueba\obj\Debug\WpfPrueba_MarkupCompile.cache
+C:\Users\krlosoul\Downloads\WpfPrueba\WpfPrueba\WpfPrueba\WpfPrueba\obj\Debug\WpfPrueba.g.resources
+C:\Users\krlosoul\Downloads\WpfPrueba\WpfPrueba\WpfPrueba\WpfPrueba\obj\Debug\WpfPrueba.Properties.Resources.resources
+C:\Users\krlosoul\Downloads\WpfPrueba\WpfPrueba\WpfPrueba\WpfPrueba\obj\Debug\WpfPrueba.csproj.GenerateResource.cache
+C:\Users\krlosoul\Downloads\WpfPrueba\WpfPrueba\WpfPrueba\WpfPrueba\obj\Debug\WpfPrueba.csproj.CoreCompileInputs.cache
+C:\Users\krlosoul\Downloads\WpfPrueba\WpfPrueba\WpfPrueba\WpfPrueba\obj\Debug\WpfPrueba.exe
+C:\Users\krlosoul\Downloads\WpfPrueba\WpfPrueba\WpfPrueba\WpfPrueba\obj\Debug\WpfPrueba.pdb
+C:\Users\krlosoul\Downloads\WpfPrueba\WpfPrueba\WpfPrueba\WpfPrueba\bin\Debug\WpfPrueba.exe.manifest
+C:\Users\krlosoul\Downloads\WpfPrueba\WpfPrueba\WpfPrueba\WpfPrueba\bin\Debug\WpfPrueba.application
+C:\Users\krlosoul\Downloads\WpfPrueba\WpfPrueba\WpfPrueba\WpfPrueba\obj\Debug\WpfPrueba.exe.manifest
+C:\Users\krlosoul\Downloads\WpfPrueba\WpfPrueba\WpfPrueba\WpfPrueba\obj\Debug\WpfPrueba.application
